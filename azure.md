@@ -1,6 +1,6 @@
 # azure_intro_assessment
 Exploring Microsoft Azure
-## **a. Identify & List Services: Choose at least two distinct services under each category.**
+## **1. Identify & List Services: Choose at least two distinct services under each category.**
 ### Storage: 
 
 ###### Azure Data Lake Storage
@@ -19,7 +19,7 @@ Exploring Microsoft Azure
 
 ###### Azure Cosmos Database 
 
-## **b. Service Description: Write a brief description for each chosen service based on the official documentation.**
+## **2. Service Description: Write a brief description for each chosen service based on the official documentation.**
 
 ### Storage: 
   ##### Azure Data Lake Storage
@@ -37,6 +37,6 @@ Exploring Microsoft Azure
 ##### Azure Cosmos Database 
 ###### Cosmos Database is a fully managed NOSQL and relational database for modern app development. Cosmos AB provides high speed response  times, automatic and instant scalability. Cosmos DB can be used for applications to achieve low latency and high availability. 
 
-## **c. Python Interaction: Describe how you may or could interact with this service using Python. You don't need to write any code, but hint towards how Python could be used to leverage this service (e.g., through SDKs, APIs, etc.).**
+## **3. Python Interaction: Describe how you may or could interact with this service using Python. You don't need to write any code, but hint towards how Python could be used to leverage this service (e.g., through SDKs, APIs, etc.).**
 ###### I can use Python to create applications, and machine learning models and utilize Azure Data Lake Storage to store the data for the application. I can build applications for medical companies and use Azure Confidential Ledger to maintain the privacy and security of the data. I can also use the Azure SDK to import tools to transfer and store the data.
 
